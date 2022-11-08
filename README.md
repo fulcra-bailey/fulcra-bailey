@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Bailey Man 
+- Data Scientist @ Fulcra Dynamics
